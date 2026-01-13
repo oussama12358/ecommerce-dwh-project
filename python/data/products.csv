@@ -1,0 +1,170 @@
+product_id,product_name,category,subcategory,unit_price
+PROD00001,Smartphones Product 1,Technology,Smartphones,176.36
+PROD00002,Smartphones Product 2,Technology,Smartphones,167.25
+PROD00003,Smartphones Product 3,Technology,Smartphones,1842.64
+PROD00004,Smartphones Product 4,Technology,Smartphones,1948.88
+PROD00005,Smartphones Product 5,Technology,Smartphones,319.2
+PROD00006,Smartphones Product 6,Technology,Smartphones,660.23
+PROD00007,Smartphones Product 7,Technology,Smartphones,1177.01
+PROD00008,Smartphones Product 8,Technology,Smartphones,1528.82
+PROD00009,Smartphones Product 9,Technology,Smartphones,1303.18
+PROD00010,Smartphones Product 10,Technology,Smartphones,1289.88
+PROD00011,Smartphones Product 11,Technology,Smartphones,627.24
+PROD00012,Smartphones Product 12,Technology,Smartphones,880.6
+PROD00013,Smartphones Product 13,Technology,Smartphones,1907.32
+PROD00014,Smartphones Product 14,Technology,Smartphones,484.89
+PROD00015,Laptops Product 1,Technology,Laptops,181.56
+PROD00016,Laptops Product 2,Technology,Laptops,874.62
+PROD00017,Laptops Product 3,Technology,Laptops,912.21
+PROD00018,Laptops Product 4,Technology,Laptops,1221.58
+PROD00019,Laptops Product 5,Technology,Laptops,625.49
+PROD00020,Laptops Product 6,Technology,Laptops,1485.97
+PROD00021,Laptops Product 7,Technology,Laptops,1483.91
+PROD00022,Laptops Product 8,Technology,Laptops,247.69
+PROD00023,Laptops Product 9,Technology,Laptops,1418.72
+PROD00024,Laptops Product 10,Technology,Laptops,1405.98
+PROD00025,Laptops Product 11,Technology,Laptops,336.03
+PROD00026,Laptops Product 12,Technology,Laptops,1906.5
+PROD00027,Laptops Product 13,Technology,Laptops,1050.78
+PROD00028,Tablets Product 1,Technology,Tablets,342.26
+PROD00029,Tablets Product 2,Technology,Tablets,262.59
+PROD00030,Tablets Product 3,Technology,Tablets,1564.44
+PROD00031,Tablets Product 4,Technology,Tablets,544.84
+PROD00032,Tablets Product 5,Technology,Tablets,1773.97
+PROD00033,Tablets Product 6,Technology,Tablets,1545.15
+PROD00034,Tablets Product 7,Technology,Tablets,68.42
+PROD00035,Tablets Product 8,Technology,Tablets,1616.14
+PROD00036,Tablets Product 9,Technology,Tablets,551.24
+PROD00037,Tablets Product 10,Technology,Tablets,137.11
+PROD00038,Tablets Product 11,Technology,Tablets,1427.52
+PROD00039,Tablets Product 12,Technology,Tablets,1157.54
+PROD00040,Tablets Product 13,Technology,Tablets,163.37
+PROD00041,Tablets Product 14,Technology,Tablets,915.84
+PROD00042,Accessories Product 1,Technology,Accessories,120.32
+PROD00043,Accessories Product 2,Technology,Accessories,1720.13
+PROD00044,Accessories Product 3,Technology,Accessories,342.09
+PROD00045,Accessories Product 4,Technology,Accessories,323.05
+PROD00046,Accessories Product 5,Technology,Accessories,1548.92
+PROD00047,Accessories Product 6,Technology,Accessories,1789.59
+PROD00048,Accessories Product 7,Technology,Accessories,1351.5
+PROD00049,Accessories Product 8,Technology,Accessories,239.51
+PROD00050,Accessories Product 9,Technology,Accessories,1484.15
+PROD00051,Accessories Product 10,Technology,Accessories,15.11
+PROD00052,Accessories Product 11,Technology,Accessories,1718.79
+PROD00053,Accessories Product 12,Technology,Accessories,34.45
+PROD00054,Accessories Product 13,Technology,Accessories,101.5
+PROD00055,Accessories Product 14,Technology,Accessories,734.31
+PROD00056,Accessories Product 15,Technology,Accessories,1841.25
+PROD00057,Chairs Product 1,Furniture,Chairs,1863.01
+PROD00058,Chairs Product 2,Furniture,Chairs,1716.4
+PROD00059,Chairs Product 3,Furniture,Chairs,1110.2
+PROD00060,Chairs Product 4,Furniture,Chairs,1828.76
+PROD00061,Chairs Product 5,Furniture,Chairs,1483.92
+PROD00062,Chairs Product 6,Furniture,Chairs,844.54
+PROD00063,Chairs Product 7,Furniture,Chairs,650.39
+PROD00064,Chairs Product 8,Furniture,Chairs,838.35
+PROD00065,Chairs Product 9,Furniture,Chairs,1443.37
+PROD00066,Chairs Product 10,Furniture,Chairs,549.8
+PROD00067,Chairs Product 11,Furniture,Chairs,165.0
+PROD00068,Chairs Product 12,Furniture,Chairs,751.89
+PROD00069,Tables Product 1,Furniture,Tables,1349.92
+PROD00070,Tables Product 2,Furniture,Tables,114.82
+PROD00071,Tables Product 3,Furniture,Tables,454.14
+PROD00072,Tables Product 4,Furniture,Tables,1036.39
+PROD00073,Tables Product 5,Furniture,Tables,101.4
+PROD00074,Tables Product 6,Furniture,Tables,807.84
+PROD00075,Tables Product 7,Furniture,Tables,1755.21
+PROD00076,Tables Product 8,Furniture,Tables,1733.4
+PROD00077,Tables Product 9,Furniture,Tables,1549.32
+PROD00078,Tables Product 10,Furniture,Tables,628.29
+PROD00079,Tables Product 11,Furniture,Tables,181.91
+PROD00080,Tables Product 12,Furniture,Tables,918.92
+PROD00081,Tables Product 13,Furniture,Tables,744.15
+PROD00082,Tables Product 14,Furniture,Tables,590.27
+PROD00083,Tables Product 15,Furniture,Tables,1571.17
+PROD00084,Tables Product 16,Furniture,Tables,1481.76
+PROD00085,Tables Product 17,Furniture,Tables,492.74
+PROD00086,Tables Product 18,Furniture,Tables,742.86
+PROD00087,Bookcases Product 1,Furniture,Bookcases,1995.6
+PROD00088,Bookcases Product 2,Furniture,Bookcases,1554.01
+PROD00089,Bookcases Product 3,Furniture,Bookcases,1467.6
+PROD00090,Bookcases Product 4,Furniture,Bookcases,1097.65
+PROD00091,Bookcases Product 5,Furniture,Bookcases,1593.99
+PROD00092,Bookcases Product 6,Furniture,Bookcases,309.63
+PROD00093,Bookcases Product 7,Furniture,Bookcases,1865.47
+PROD00094,Bookcases Product 8,Furniture,Bookcases,57.58
+PROD00095,Bookcases Product 9,Furniture,Bookcases,1087.67
+PROD00096,Bookcases Product 10,Furniture,Bookcases,1275.52
+PROD00097,Bookcases Product 11,Furniture,Bookcases,1389.99
+PROD00098,Bookcases Product 12,Furniture,Bookcases,29.09
+PROD00099,Bookcases Product 13,Furniture,Bookcases,676.68
+PROD00100,Bookcases Product 14,Furniture,Bookcases,1520.27
+PROD00101,Bookcases Product 15,Furniture,Bookcases,758.79
+PROD00102,Bookcases Product 16,Furniture,Bookcases,1478.78
+PROD00103,Bookcases Product 17,Furniture,Bookcases,621.95
+PROD00104,Furnishings Product 1,Furniture,Furnishings,1064.33
+PROD00105,Furnishings Product 2,Furniture,Furnishings,483.95
+PROD00106,Furnishings Product 3,Furniture,Furnishings,989.14
+PROD00107,Furnishings Product 4,Furniture,Furnishings,129.19
+PROD00108,Furnishings Product 5,Furniture,Furnishings,1993.95
+PROD00109,Furnishings Product 6,Furniture,Furnishings,1426.19
+PROD00110,Furnishings Product 7,Furniture,Furnishings,195.12
+PROD00111,Furnishings Product 8,Furniture,Furnishings,1843.34
+PROD00112,Furnishings Product 9,Furniture,Furnishings,1795.6
+PROD00113,Furnishings Product 10,Furniture,Furnishings,1044.32
+PROD00114,Furnishings Product 11,Furniture,Furnishings,1404.69
+PROD00115,Furnishings Product 12,Furniture,Furnishings,751.26
+PROD00116,Furnishings Product 13,Furniture,Furnishings,1949.36
+PROD00117,Paper Product 1,Office Supplies,Paper,1165.73
+PROD00118,Paper Product 2,Office Supplies,Paper,1015.8
+PROD00119,Paper Product 3,Office Supplies,Paper,1278.06
+PROD00120,Paper Product 4,Office Supplies,Paper,794.76
+PROD00121,Paper Product 5,Office Supplies,Paper,1187.87
+PROD00122,Paper Product 6,Office Supplies,Paper,133.94
+PROD00123,Paper Product 7,Office Supplies,Paper,1328.26
+PROD00124,Paper Product 8,Office Supplies,Paper,270.11
+PROD00125,Paper Product 9,Office Supplies,Paper,590.44
+PROD00126,Paper Product 10,Office Supplies,Paper,1703.32
+PROD00127,Paper Product 11,Office Supplies,Paper,1852.82
+PROD00128,Binders Product 1,Office Supplies,Binders,1404.44
+PROD00129,Binders Product 2,Office Supplies,Binders,1473.35
+PROD00130,Binders Product 3,Office Supplies,Binders,642.93
+PROD00131,Binders Product 4,Office Supplies,Binders,551.19
+PROD00132,Binders Product 5,Office Supplies,Binders,158.63
+PROD00133,Binders Product 6,Office Supplies,Binders,413.4
+PROD00134,Binders Product 7,Office Supplies,Binders,1562.07
+PROD00135,Binders Product 8,Office Supplies,Binders,1173.57
+PROD00136,Binders Product 9,Office Supplies,Binders,319.27
+PROD00137,Binders Product 10,Office Supplies,Binders,337.11
+PROD00138,Binders Product 11,Office Supplies,Binders,937.45
+PROD00139,Binders Product 12,Office Supplies,Binders,818.96
+PROD00140,Binders Product 13,Office Supplies,Binders,1076.49
+PROD00141,Binders Product 14,Office Supplies,Binders,1929.62
+PROD00142,Binders Product 15,Office Supplies,Binders,423.2
+PROD00143,Binders Product 16,Office Supplies,Binders,623.53
+PROD00144,Art Product 1,Office Supplies,Art,1706.44
+PROD00145,Art Product 2,Office Supplies,Art,189.94
+PROD00146,Art Product 3,Office Supplies,Art,1617.12
+PROD00147,Art Product 4,Office Supplies,Art,615.39
+PROD00148,Art Product 5,Office Supplies,Art,1412.36
+PROD00149,Art Product 6,Office Supplies,Art,1210.57
+PROD00150,Art Product 7,Office Supplies,Art,437.89
+PROD00151,Art Product 8,Office Supplies,Art,1714.58
+PROD00152,Art Product 9,Office Supplies,Art,305.16
+PROD00153,Art Product 10,Office Supplies,Art,1425.2
+PROD00154,Art Product 11,Office Supplies,Art,1937.12
+PROD00155,Art Product 12,Office Supplies,Art,798.53
+PROD00156,Art Product 13,Office Supplies,Art,107.41
+PROD00157,Art Product 14,Office Supplies,Art,604.69
+PROD00158,Storage Product 1,Office Supplies,Storage,71.85
+PROD00159,Storage Product 2,Office Supplies,Storage,814.74
+PROD00160,Storage Product 3,Office Supplies,Storage,909.88
+PROD00161,Storage Product 4,Office Supplies,Storage,1498.68
+PROD00162,Storage Product 5,Office Supplies,Storage,507.21
+PROD00163,Storage Product 6,Office Supplies,Storage,929.47
+PROD00164,Storage Product 7,Office Supplies,Storage,1609.75
+PROD00165,Storage Product 8,Office Supplies,Storage,288.19
+PROD00166,Storage Product 9,Office Supplies,Storage,33.79
+PROD00167,Storage Product 10,Office Supplies,Storage,1662.44
+PROD00168,Storage Product 11,Office Supplies,Storage,1965.31
+PROD00169,Storage Product 12,Office Supplies,Storage,270.12

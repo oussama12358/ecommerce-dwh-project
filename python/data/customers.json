@@ -1,0 +1,7002 @@
+[
+  {
+    "customer_id": "CUST00001",
+    "customer_name": "Customer 1",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00002",
+    "customer_name": "Customer 2",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00003",
+    "customer_name": "Customer 3",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00004",
+    "customer_name": "Customer 4",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00005",
+    "customer_name": "Customer 5",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00006",
+    "customer_name": "Customer 6",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Los Angeles"
+  },
+  {
+    "customer_id": "CUST00007",
+    "customer_name": "Customer 7",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00008",
+    "customer_name": "Customer 8",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00009",
+    "customer_name": "Customer 9",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00010",
+    "customer_name": "Customer 10",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00011",
+    "customer_name": "Customer 11",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00012",
+    "customer_name": "Customer 12",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00013",
+    "customer_name": "Customer 13",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00014",
+    "customer_name": "Customer 14",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00015",
+    "customer_name": "Customer 15",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00016",
+    "customer_name": "Customer 16",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00017",
+    "customer_name": "Customer 17",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Los Angeles"
+  },
+  {
+    "customer_id": "CUST00018",
+    "customer_name": "Customer 18",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00019",
+    "customer_name": "Customer 19",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00020",
+    "customer_name": "Customer 20",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00021",
+    "customer_name": "Customer 21",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00022",
+    "customer_name": "Customer 22",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00023",
+    "customer_name": "Customer 23",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00024",
+    "customer_name": "Customer 24",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00025",
+    "customer_name": "Customer 25",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00026",
+    "customer_name": "Customer 26",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "customer_id": "CUST00027",
+    "customer_name": "Customer 27",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00028",
+    "customer_name": "Customer 28",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00029",
+    "customer_name": "Customer 29",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00030",
+    "customer_name": "Customer 30",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00031",
+    "customer_name": "Customer 31",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00032",
+    "customer_name": "Customer 32",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00033",
+    "customer_name": "Customer 33",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00034",
+    "customer_name": "Customer 34",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "customer_id": "CUST00035",
+    "customer_name": "Customer 35",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00036",
+    "customer_name": "Customer 36",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00037",
+    "customer_name": "Customer 37",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00038",
+    "customer_name": "Customer 38",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00039",
+    "customer_name": "Customer 39",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00040",
+    "customer_name": "Customer 40",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00041",
+    "customer_name": "Customer 41",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00042",
+    "customer_name": "Customer 42",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00043",
+    "customer_name": "Customer 43",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00044",
+    "customer_name": "Customer 44",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "customer_id": "CUST00045",
+    "customer_name": "Customer 45",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00046",
+    "customer_name": "Customer 46",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00047",
+    "customer_name": "Customer 47",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00048",
+    "customer_name": "Customer 48",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00049",
+    "customer_name": "Customer 49",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "customer_id": "CUST00050",
+    "customer_name": "Customer 50",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Phoenix"
+  },
+  {
+    "customer_id": "CUST00051",
+    "customer_name": "Customer 51",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00052",
+    "customer_name": "Customer 52",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00053",
+    "customer_name": "Customer 53",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00054",
+    "customer_name": "Customer 54",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00055",
+    "customer_name": "Customer 55",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00056",
+    "customer_name": "Customer 56",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00057",
+    "customer_name": "Customer 57",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00058",
+    "customer_name": "Customer 58",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00059",
+    "customer_name": "Customer 59",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00060",
+    "customer_name": "Customer 60",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00061",
+    "customer_name": "Customer 61",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "New York"
+  },
+  {
+    "customer_id": "CUST00062",
+    "customer_name": "Customer 62",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00063",
+    "customer_name": "Customer 63",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "customer_id": "CUST00064",
+    "customer_name": "Customer 64",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00065",
+    "customer_name": "Customer 65",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00066",
+    "customer_name": "Customer 66",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00067",
+    "customer_name": "Customer 67",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00068",
+    "customer_name": "Customer 68",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00069",
+    "customer_name": "Customer 69",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00070",
+    "customer_name": "Customer 70",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00071",
+    "customer_name": "Customer 71",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00072",
+    "customer_name": "Customer 72",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "customer_id": "CUST00073",
+    "customer_name": "Customer 73",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00074",
+    "customer_name": "Customer 74",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00075",
+    "customer_name": "Customer 75",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00076",
+    "customer_name": "Customer 76",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00077",
+    "customer_name": "Customer 77",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Phoenix"
+  },
+  {
+    "customer_id": "CUST00078",
+    "customer_name": "Customer 78",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Los Angeles"
+  },
+  {
+    "customer_id": "CUST00079",
+    "customer_name": "Customer 79",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00080",
+    "customer_name": "Customer 80",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00081",
+    "customer_name": "Customer 81",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00082",
+    "customer_name": "Customer 82",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00083",
+    "customer_name": "Customer 83",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00084",
+    "customer_name": "Customer 84",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00085",
+    "customer_name": "Customer 85",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00086",
+    "customer_name": "Customer 86",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00087",
+    "customer_name": "Customer 87",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Phoenix"
+  },
+  {
+    "customer_id": "CUST00088",
+    "customer_name": "Customer 88",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00089",
+    "customer_name": "Customer 89",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "New York"
+  },
+  {
+    "customer_id": "CUST00090",
+    "customer_name": "Customer 90",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "customer_id": "CUST00091",
+    "customer_name": "Customer 91",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00092",
+    "customer_name": "Customer 92",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00093",
+    "customer_name": "Customer 93",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00094",
+    "customer_name": "Customer 94",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00095",
+    "customer_name": "Customer 95",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00096",
+    "customer_name": "Customer 96",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00097",
+    "customer_name": "Customer 97",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00098",
+    "customer_name": "Customer 98",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Phoenix"
+  },
+  {
+    "customer_id": "CUST00099",
+    "customer_name": "Customer 99",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00100",
+    "customer_name": "Customer 100",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00101",
+    "customer_name": "Customer 101",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00102",
+    "customer_name": "Customer 102",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00103",
+    "customer_name": "Customer 103",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00104",
+    "customer_name": "Customer 104",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00105",
+    "customer_name": "Customer 105",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "customer_id": "CUST00106",
+    "customer_name": "Customer 106",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00107",
+    "customer_name": "Customer 107",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00108",
+    "customer_name": "Customer 108",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00109",
+    "customer_name": "Customer 109",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00110",
+    "customer_name": "Customer 110",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00111",
+    "customer_name": "Customer 111",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00112",
+    "customer_name": "Customer 112",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00113",
+    "customer_name": "Customer 113",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00114",
+    "customer_name": "Customer 114",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00115",
+    "customer_name": "Customer 115",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00116",
+    "customer_name": "Customer 116",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Phoenix"
+  },
+  {
+    "customer_id": "CUST00117",
+    "customer_name": "Customer 117",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00118",
+    "customer_name": "Customer 118",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00119",
+    "customer_name": "Customer 119",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Los Angeles"
+  },
+  {
+    "customer_id": "CUST00120",
+    "customer_name": "Customer 120",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00121",
+    "customer_name": "Customer 121",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00122",
+    "customer_name": "Customer 122",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00123",
+    "customer_name": "Customer 123",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "customer_id": "CUST00124",
+    "customer_name": "Customer 124",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00125",
+    "customer_name": "Customer 125",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00126",
+    "customer_name": "Customer 126",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00127",
+    "customer_name": "Customer 127",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00128",
+    "customer_name": "Customer 128",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00129",
+    "customer_name": "Customer 129",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "customer_id": "CUST00130",
+    "customer_name": "Customer 130",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00131",
+    "customer_name": "Customer 131",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00132",
+    "customer_name": "Customer 132",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00133",
+    "customer_name": "Customer 133",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00134",
+    "customer_name": "Customer 134",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00135",
+    "customer_name": "Customer 135",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00136",
+    "customer_name": "Customer 136",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Phoenix"
+  },
+  {
+    "customer_id": "CUST00137",
+    "customer_name": "Customer 137",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00138",
+    "customer_name": "Customer 138",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00139",
+    "customer_name": "Customer 139",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00140",
+    "customer_name": "Customer 140",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00141",
+    "customer_name": "Customer 141",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Phoenix"
+  },
+  {
+    "customer_id": "CUST00142",
+    "customer_name": "Customer 142",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00143",
+    "customer_name": "Customer 143",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00144",
+    "customer_name": "Customer 144",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00145",
+    "customer_name": "Customer 145",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00146",
+    "customer_name": "Customer 146",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00147",
+    "customer_name": "Customer 147",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00148",
+    "customer_name": "Customer 148",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00149",
+    "customer_name": "Customer 149",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00150",
+    "customer_name": "Customer 150",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00151",
+    "customer_name": "Customer 151",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00152",
+    "customer_name": "Customer 152",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00153",
+    "customer_name": "Customer 153",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00154",
+    "customer_name": "Customer 154",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00155",
+    "customer_name": "Customer 155",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "customer_id": "CUST00156",
+    "customer_name": "Customer 156",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00157",
+    "customer_name": "Customer 157",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00158",
+    "customer_name": "Customer 158",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00159",
+    "customer_name": "Customer 159",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Los Angeles"
+  },
+  {
+    "customer_id": "CUST00160",
+    "customer_name": "Customer 160",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00161",
+    "customer_name": "Customer 161",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00162",
+    "customer_name": "Customer 162",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00163",
+    "customer_name": "Customer 163",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00164",
+    "customer_name": "Customer 164",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00165",
+    "customer_name": "Customer 165",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00166",
+    "customer_name": "Customer 166",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Los Angeles"
+  },
+  {
+    "customer_id": "CUST00167",
+    "customer_name": "Customer 167",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00168",
+    "customer_name": "Customer 168",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00169",
+    "customer_name": "Customer 169",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00170",
+    "customer_name": "Customer 170",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00171",
+    "customer_name": "Customer 171",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00172",
+    "customer_name": "Customer 172",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00173",
+    "customer_name": "Customer 173",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00174",
+    "customer_name": "Customer 174",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00175",
+    "customer_name": "Customer 175",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00176",
+    "customer_name": "Customer 176",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00177",
+    "customer_name": "Customer 177",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00178",
+    "customer_name": "Customer 178",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00179",
+    "customer_name": "Customer 179",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00180",
+    "customer_name": "Customer 180",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00181",
+    "customer_name": "Customer 181",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00182",
+    "customer_name": "Customer 182",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00183",
+    "customer_name": "Customer 183",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00184",
+    "customer_name": "Customer 184",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00185",
+    "customer_name": "Customer 185",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00186",
+    "customer_name": "Customer 186",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00187",
+    "customer_name": "Customer 187",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00188",
+    "customer_name": "Customer 188",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00189",
+    "customer_name": "Customer 189",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00190",
+    "customer_name": "Customer 190",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Phoenix"
+  },
+  {
+    "customer_id": "CUST00191",
+    "customer_name": "Customer 191",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00192",
+    "customer_name": "Customer 192",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00193",
+    "customer_name": "Customer 193",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00194",
+    "customer_name": "Customer 194",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00195",
+    "customer_name": "Customer 195",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00196",
+    "customer_name": "Customer 196",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00197",
+    "customer_name": "Customer 197",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00198",
+    "customer_name": "Customer 198",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Los Angeles"
+  },
+  {
+    "customer_id": "CUST00199",
+    "customer_name": "Customer 199",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00200",
+    "customer_name": "Customer 200",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Los Angeles"
+  },
+  {
+    "customer_id": "CUST00201",
+    "customer_name": "Customer 201",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Los Angeles"
+  },
+  {
+    "customer_id": "CUST00202",
+    "customer_name": "Customer 202",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00203",
+    "customer_name": "Customer 203",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00204",
+    "customer_name": "Customer 204",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00205",
+    "customer_name": "Customer 205",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00206",
+    "customer_name": "Customer 206",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "customer_id": "CUST00207",
+    "customer_name": "Customer 207",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Phoenix"
+  },
+  {
+    "customer_id": "CUST00208",
+    "customer_name": "Customer 208",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00209",
+    "customer_name": "Customer 209",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00210",
+    "customer_name": "Customer 210",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00211",
+    "customer_name": "Customer 211",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00212",
+    "customer_name": "Customer 212",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00213",
+    "customer_name": "Customer 213",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00214",
+    "customer_name": "Customer 214",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00215",
+    "customer_name": "Customer 215",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00216",
+    "customer_name": "Customer 216",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00217",
+    "customer_name": "Customer 217",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00218",
+    "customer_name": "Customer 218",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00219",
+    "customer_name": "Customer 219",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00220",
+    "customer_name": "Customer 220",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00221",
+    "customer_name": "Customer 221",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00222",
+    "customer_name": "Customer 222",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00223",
+    "customer_name": "Customer 223",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00224",
+    "customer_name": "Customer 224",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00225",
+    "customer_name": "Customer 225",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00226",
+    "customer_name": "Customer 226",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Los Angeles"
+  },
+  {
+    "customer_id": "CUST00227",
+    "customer_name": "Customer 227",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00228",
+    "customer_name": "Customer 228",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00229",
+    "customer_name": "Customer 229",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00230",
+    "customer_name": "Customer 230",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00231",
+    "customer_name": "Customer 231",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00232",
+    "customer_name": "Customer 232",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00233",
+    "customer_name": "Customer 233",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00234",
+    "customer_name": "Customer 234",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00235",
+    "customer_name": "Customer 235",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00236",
+    "customer_name": "Customer 236",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00237",
+    "customer_name": "Customer 237",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00238",
+    "customer_name": "Customer 238",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "customer_id": "CUST00239",
+    "customer_name": "Customer 239",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00240",
+    "customer_name": "Customer 240",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00241",
+    "customer_name": "Customer 241",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00242",
+    "customer_name": "Customer 242",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00243",
+    "customer_name": "Customer 243",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00244",
+    "customer_name": "Customer 244",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00245",
+    "customer_name": "Customer 245",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00246",
+    "customer_name": "Customer 246",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00247",
+    "customer_name": "Customer 247",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00248",
+    "customer_name": "Customer 248",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00249",
+    "customer_name": "Customer 249",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00250",
+    "customer_name": "Customer 250",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00251",
+    "customer_name": "Customer 251",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00252",
+    "customer_name": "Customer 252",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00253",
+    "customer_name": "Customer 253",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00254",
+    "customer_name": "Customer 254",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00255",
+    "customer_name": "Customer 255",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00256",
+    "customer_name": "Customer 256",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00257",
+    "customer_name": "Customer 257",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00258",
+    "customer_name": "Customer 258",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00259",
+    "customer_name": "Customer 259",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00260",
+    "customer_name": "Customer 260",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00261",
+    "customer_name": "Customer 261",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00262",
+    "customer_name": "Customer 262",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00263",
+    "customer_name": "Customer 263",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00264",
+    "customer_name": "Customer 264",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00265",
+    "customer_name": "Customer 265",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00266",
+    "customer_name": "Customer 266",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00267",
+    "customer_name": "Customer 267",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00268",
+    "customer_name": "Customer 268",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00269",
+    "customer_name": "Customer 269",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00270",
+    "customer_name": "Customer 270",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00271",
+    "customer_name": "Customer 271",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00272",
+    "customer_name": "Customer 272",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00273",
+    "customer_name": "Customer 273",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00274",
+    "customer_name": "Customer 274",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00275",
+    "customer_name": "Customer 275",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00276",
+    "customer_name": "Customer 276",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00277",
+    "customer_name": "Customer 277",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00278",
+    "customer_name": "Customer 278",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00279",
+    "customer_name": "Customer 279",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00280",
+    "customer_name": "Customer 280",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00281",
+    "customer_name": "Customer 281",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00282",
+    "customer_name": "Customer 282",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00283",
+    "customer_name": "Customer 283",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00284",
+    "customer_name": "Customer 284",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00285",
+    "customer_name": "Customer 285",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00286",
+    "customer_name": "Customer 286",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "New York"
+  },
+  {
+    "customer_id": "CUST00287",
+    "customer_name": "Customer 287",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00288",
+    "customer_name": "Customer 288",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00289",
+    "customer_name": "Customer 289",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00290",
+    "customer_name": "Customer 290",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00291",
+    "customer_name": "Customer 291",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00292",
+    "customer_name": "Customer 292",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00293",
+    "customer_name": "Customer 293",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00294",
+    "customer_name": "Customer 294",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00295",
+    "customer_name": "Customer 295",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00296",
+    "customer_name": "Customer 296",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00297",
+    "customer_name": "Customer 297",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00298",
+    "customer_name": "Customer 298",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00299",
+    "customer_name": "Customer 299",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00300",
+    "customer_name": "Customer 300",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00301",
+    "customer_name": "Customer 301",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00302",
+    "customer_name": "Customer 302",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00303",
+    "customer_name": "Customer 303",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00304",
+    "customer_name": "Customer 304",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00305",
+    "customer_name": "Customer 305",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00306",
+    "customer_name": "Customer 306",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00307",
+    "customer_name": "Customer 307",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00308",
+    "customer_name": "Customer 308",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00309",
+    "customer_name": "Customer 309",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00310",
+    "customer_name": "Customer 310",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00311",
+    "customer_name": "Customer 311",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00312",
+    "customer_name": "Customer 312",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00313",
+    "customer_name": "Customer 313",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00314",
+    "customer_name": "Customer 314",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00315",
+    "customer_name": "Customer 315",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00316",
+    "customer_name": "Customer 316",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Los Angeles"
+  },
+  {
+    "customer_id": "CUST00317",
+    "customer_name": "Customer 317",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00318",
+    "customer_name": "Customer 318",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00319",
+    "customer_name": "Customer 319",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00320",
+    "customer_name": "Customer 320",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00321",
+    "customer_name": "Customer 321",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00322",
+    "customer_name": "Customer 322",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "New York"
+  },
+  {
+    "customer_id": "CUST00323",
+    "customer_name": "Customer 323",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00324",
+    "customer_name": "Customer 324",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00325",
+    "customer_name": "Customer 325",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00326",
+    "customer_name": "Customer 326",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00327",
+    "customer_name": "Customer 327",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00328",
+    "customer_name": "Customer 328",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00329",
+    "customer_name": "Customer 329",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "customer_id": "CUST00330",
+    "customer_name": "Customer 330",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00331",
+    "customer_name": "Customer 331",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00332",
+    "customer_name": "Customer 332",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00333",
+    "customer_name": "Customer 333",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00334",
+    "customer_name": "Customer 334",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00335",
+    "customer_name": "Customer 335",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00336",
+    "customer_name": "Customer 336",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00337",
+    "customer_name": "Customer 337",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00338",
+    "customer_name": "Customer 338",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00339",
+    "customer_name": "Customer 339",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00340",
+    "customer_name": "Customer 340",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00341",
+    "customer_name": "Customer 341",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00342",
+    "customer_name": "Customer 342",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00343",
+    "customer_name": "Customer 343",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00344",
+    "customer_name": "Customer 344",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00345",
+    "customer_name": "Customer 345",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00346",
+    "customer_name": "Customer 346",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "customer_id": "CUST00347",
+    "customer_name": "Customer 347",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00348",
+    "customer_name": "Customer 348",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00349",
+    "customer_name": "Customer 349",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00350",
+    "customer_name": "Customer 350",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "customer_id": "CUST00351",
+    "customer_name": "Customer 351",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00352",
+    "customer_name": "Customer 352",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00353",
+    "customer_name": "Customer 353",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00354",
+    "customer_name": "Customer 354",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00355",
+    "customer_name": "Customer 355",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00356",
+    "customer_name": "Customer 356",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00357",
+    "customer_name": "Customer 357",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00358",
+    "customer_name": "Customer 358",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00359",
+    "customer_name": "Customer 359",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Phoenix"
+  },
+  {
+    "customer_id": "CUST00360",
+    "customer_name": "Customer 360",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00361",
+    "customer_name": "Customer 361",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00362",
+    "customer_name": "Customer 362",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "customer_id": "CUST00363",
+    "customer_name": "Customer 363",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00364",
+    "customer_name": "Customer 364",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00365",
+    "customer_name": "Customer 365",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00366",
+    "customer_name": "Customer 366",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00367",
+    "customer_name": "Customer 367",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00368",
+    "customer_name": "Customer 368",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00369",
+    "customer_name": "Customer 369",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00370",
+    "customer_name": "Customer 370",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00371",
+    "customer_name": "Customer 371",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00372",
+    "customer_name": "Customer 372",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00373",
+    "customer_name": "Customer 373",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00374",
+    "customer_name": "Customer 374",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00375",
+    "customer_name": "Customer 375",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00376",
+    "customer_name": "Customer 376",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00377",
+    "customer_name": "Customer 377",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00378",
+    "customer_name": "Customer 378",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00379",
+    "customer_name": "Customer 379",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00380",
+    "customer_name": "Customer 380",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00381",
+    "customer_name": "Customer 381",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00382",
+    "customer_name": "Customer 382",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00383",
+    "customer_name": "Customer 383",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00384",
+    "customer_name": "Customer 384",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00385",
+    "customer_name": "Customer 385",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "customer_id": "CUST00386",
+    "customer_name": "Customer 386",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00387",
+    "customer_name": "Customer 387",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00388",
+    "customer_name": "Customer 388",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "New York"
+  },
+  {
+    "customer_id": "CUST00389",
+    "customer_name": "Customer 389",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00390",
+    "customer_name": "Customer 390",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00391",
+    "customer_name": "Customer 391",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00392",
+    "customer_name": "Customer 392",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00393",
+    "customer_name": "Customer 393",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00394",
+    "customer_name": "Customer 394",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00395",
+    "customer_name": "Customer 395",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Phoenix"
+  },
+  {
+    "customer_id": "CUST00396",
+    "customer_name": "Customer 396",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00397",
+    "customer_name": "Customer 397",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00398",
+    "customer_name": "Customer 398",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00399",
+    "customer_name": "Customer 399",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00400",
+    "customer_name": "Customer 400",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00401",
+    "customer_name": "Customer 401",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00402",
+    "customer_name": "Customer 402",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00403",
+    "customer_name": "Customer 403",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00404",
+    "customer_name": "Customer 404",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00405",
+    "customer_name": "Customer 405",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00406",
+    "customer_name": "Customer 406",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00407",
+    "customer_name": "Customer 407",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00408",
+    "customer_name": "Customer 408",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00409",
+    "customer_name": "Customer 409",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00410",
+    "customer_name": "Customer 410",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00411",
+    "customer_name": "Customer 411",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00412",
+    "customer_name": "Customer 412",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00413",
+    "customer_name": "Customer 413",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00414",
+    "customer_name": "Customer 414",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00415",
+    "customer_name": "Customer 415",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00416",
+    "customer_name": "Customer 416",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00417",
+    "customer_name": "Customer 417",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Phoenix"
+  },
+  {
+    "customer_id": "CUST00418",
+    "customer_name": "Customer 418",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00419",
+    "customer_name": "Customer 419",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00420",
+    "customer_name": "Customer 420",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00421",
+    "customer_name": "Customer 421",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00422",
+    "customer_name": "Customer 422",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00423",
+    "customer_name": "Customer 423",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00424",
+    "customer_name": "Customer 424",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00425",
+    "customer_name": "Customer 425",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00426",
+    "customer_name": "Customer 426",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00427",
+    "customer_name": "Customer 427",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00428",
+    "customer_name": "Customer 428",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00429",
+    "customer_name": "Customer 429",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00430",
+    "customer_name": "Customer 430",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00431",
+    "customer_name": "Customer 431",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00432",
+    "customer_name": "Customer 432",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00433",
+    "customer_name": "Customer 433",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "customer_id": "CUST00434",
+    "customer_name": "Customer 434",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00435",
+    "customer_name": "Customer 435",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00436",
+    "customer_name": "Customer 436",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00437",
+    "customer_name": "Customer 437",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00438",
+    "customer_name": "Customer 438",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00439",
+    "customer_name": "Customer 439",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00440",
+    "customer_name": "Customer 440",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00441",
+    "customer_name": "Customer 441",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00442",
+    "customer_name": "Customer 442",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00443",
+    "customer_name": "Customer 443",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00444",
+    "customer_name": "Customer 444",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00445",
+    "customer_name": "Customer 445",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00446",
+    "customer_name": "Customer 446",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00447",
+    "customer_name": "Customer 447",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00448",
+    "customer_name": "Customer 448",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00449",
+    "customer_name": "Customer 449",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00450",
+    "customer_name": "Customer 450",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00451",
+    "customer_name": "Customer 451",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00452",
+    "customer_name": "Customer 452",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Los Angeles"
+  },
+  {
+    "customer_id": "CUST00453",
+    "customer_name": "Customer 453",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00454",
+    "customer_name": "Customer 454",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00455",
+    "customer_name": "Customer 455",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00456",
+    "customer_name": "Customer 456",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00457",
+    "customer_name": "Customer 457",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00458",
+    "customer_name": "Customer 458",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "customer_id": "CUST00459",
+    "customer_name": "Customer 459",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00460",
+    "customer_name": "Customer 460",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "customer_id": "CUST00461",
+    "customer_name": "Customer 461",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00462",
+    "customer_name": "Customer 462",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00463",
+    "customer_name": "Customer 463",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00464",
+    "customer_name": "Customer 464",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00465",
+    "customer_name": "Customer 465",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00466",
+    "customer_name": "Customer 466",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "customer_id": "CUST00467",
+    "customer_name": "Customer 467",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00468",
+    "customer_name": "Customer 468",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00469",
+    "customer_name": "Customer 469",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00470",
+    "customer_name": "Customer 470",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00471",
+    "customer_name": "Customer 471",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00472",
+    "customer_name": "Customer 472",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00473",
+    "customer_name": "Customer 473",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00474",
+    "customer_name": "Customer 474",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00475",
+    "customer_name": "Customer 475",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00476",
+    "customer_name": "Customer 476",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00477",
+    "customer_name": "Customer 477",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00478",
+    "customer_name": "Customer 478",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00479",
+    "customer_name": "Customer 479",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00480",
+    "customer_name": "Customer 480",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00481",
+    "customer_name": "Customer 481",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00482",
+    "customer_name": "Customer 482",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00483",
+    "customer_name": "Customer 483",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00484",
+    "customer_name": "Customer 484",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00485",
+    "customer_name": "Customer 485",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "customer_id": "CUST00486",
+    "customer_name": "Customer 486",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00487",
+    "customer_name": "Customer 487",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00488",
+    "customer_name": "Customer 488",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00489",
+    "customer_name": "Customer 489",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00490",
+    "customer_name": "Customer 490",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00491",
+    "customer_name": "Customer 491",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00492",
+    "customer_name": "Customer 492",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00493",
+    "customer_name": "Customer 493",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00494",
+    "customer_name": "Customer 494",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "customer_id": "CUST00495",
+    "customer_name": "Customer 495",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00496",
+    "customer_name": "Customer 496",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "customer_id": "CUST00497",
+    "customer_name": "Customer 497",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00498",
+    "customer_name": "Customer 498",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00499",
+    "customer_name": "Customer 499",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00500",
+    "customer_name": "Customer 500",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "customer_id": "CUST00501",
+    "customer_name": "Customer 501",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00502",
+    "customer_name": "Customer 502",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00503",
+    "customer_name": "Customer 503",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00504",
+    "customer_name": "Customer 504",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00505",
+    "customer_name": "Customer 505",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00506",
+    "customer_name": "Customer 506",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00507",
+    "customer_name": "Customer 507",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "customer_id": "CUST00508",
+    "customer_name": "Customer 508",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00509",
+    "customer_name": "Customer 509",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00510",
+    "customer_name": "Customer 510",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00511",
+    "customer_name": "Customer 511",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "customer_id": "CUST00512",
+    "customer_name": "Customer 512",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00513",
+    "customer_name": "Customer 513",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "New York"
+  },
+  {
+    "customer_id": "CUST00514",
+    "customer_name": "Customer 514",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00515",
+    "customer_name": "Customer 515",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00516",
+    "customer_name": "Customer 516",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00517",
+    "customer_name": "Customer 517",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00518",
+    "customer_name": "Customer 518",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "customer_id": "CUST00519",
+    "customer_name": "Customer 519",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00520",
+    "customer_name": "Customer 520",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00521",
+    "customer_name": "Customer 521",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00522",
+    "customer_name": "Customer 522",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00523",
+    "customer_name": "Customer 523",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00524",
+    "customer_name": "Customer 524",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00525",
+    "customer_name": "Customer 525",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00526",
+    "customer_name": "Customer 526",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00527",
+    "customer_name": "Customer 527",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Phoenix"
+  },
+  {
+    "customer_id": "CUST00528",
+    "customer_name": "Customer 528",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00529",
+    "customer_name": "Customer 529",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00530",
+    "customer_name": "Customer 530",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00531",
+    "customer_name": "Customer 531",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "customer_id": "CUST00532",
+    "customer_name": "Customer 532",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00533",
+    "customer_name": "Customer 533",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00534",
+    "customer_name": "Customer 534",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00535",
+    "customer_name": "Customer 535",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "New York"
+  },
+  {
+    "customer_id": "CUST00536",
+    "customer_name": "Customer 536",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00537",
+    "customer_name": "Customer 537",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00538",
+    "customer_name": "Customer 538",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00539",
+    "customer_name": "Customer 539",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00540",
+    "customer_name": "Customer 540",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00541",
+    "customer_name": "Customer 541",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00542",
+    "customer_name": "Customer 542",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Los Angeles"
+  },
+  {
+    "customer_id": "CUST00543",
+    "customer_name": "Customer 543",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "New York"
+  },
+  {
+    "customer_id": "CUST00544",
+    "customer_name": "Customer 544",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00545",
+    "customer_name": "Customer 545",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00546",
+    "customer_name": "Customer 546",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00547",
+    "customer_name": "Customer 547",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00548",
+    "customer_name": "Customer 548",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00549",
+    "customer_name": "Customer 549",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00550",
+    "customer_name": "Customer 550",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00551",
+    "customer_name": "Customer 551",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00552",
+    "customer_name": "Customer 552",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00553",
+    "customer_name": "Customer 553",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00554",
+    "customer_name": "Customer 554",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00555",
+    "customer_name": "Customer 555",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00556",
+    "customer_name": "Customer 556",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00557",
+    "customer_name": "Customer 557",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00558",
+    "customer_name": "Customer 558",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00559",
+    "customer_name": "Customer 559",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00560",
+    "customer_name": "Customer 560",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00561",
+    "customer_name": "Customer 561",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00562",
+    "customer_name": "Customer 562",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00563",
+    "customer_name": "Customer 563",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "customer_id": "CUST00564",
+    "customer_name": "Customer 564",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Phoenix"
+  },
+  {
+    "customer_id": "CUST00565",
+    "customer_name": "Customer 565",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00566",
+    "customer_name": "Customer 566",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00567",
+    "customer_name": "Customer 567",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00568",
+    "customer_name": "Customer 568",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00569",
+    "customer_name": "Customer 569",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00570",
+    "customer_name": "Customer 570",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00571",
+    "customer_name": "Customer 571",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00572",
+    "customer_name": "Customer 572",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00573",
+    "customer_name": "Customer 573",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Los Angeles"
+  },
+  {
+    "customer_id": "CUST00574",
+    "customer_name": "Customer 574",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00575",
+    "customer_name": "Customer 575",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00576",
+    "customer_name": "Customer 576",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00577",
+    "customer_name": "Customer 577",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00578",
+    "customer_name": "Customer 578",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00579",
+    "customer_name": "Customer 579",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00580",
+    "customer_name": "Customer 580",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00581",
+    "customer_name": "Customer 581",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00582",
+    "customer_name": "Customer 582",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00583",
+    "customer_name": "Customer 583",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00584",
+    "customer_name": "Customer 584",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00585",
+    "customer_name": "Customer 585",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00586",
+    "customer_name": "Customer 586",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00587",
+    "customer_name": "Customer 587",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00588",
+    "customer_name": "Customer 588",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00589",
+    "customer_name": "Customer 589",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00590",
+    "customer_name": "Customer 590",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00591",
+    "customer_name": "Customer 591",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "customer_id": "CUST00592",
+    "customer_name": "Customer 592",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00593",
+    "customer_name": "Customer 593",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00594",
+    "customer_name": "Customer 594",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "customer_id": "CUST00595",
+    "customer_name": "Customer 595",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00596",
+    "customer_name": "Customer 596",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00597",
+    "customer_name": "Customer 597",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "customer_id": "CUST00598",
+    "customer_name": "Customer 598",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00599",
+    "customer_name": "Customer 599",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00600",
+    "customer_name": "Customer 600",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00601",
+    "customer_name": "Customer 601",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00602",
+    "customer_name": "Customer 602",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00603",
+    "customer_name": "Customer 603",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "New York"
+  },
+  {
+    "customer_id": "CUST00604",
+    "customer_name": "Customer 604",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Phoenix"
+  },
+  {
+    "customer_id": "CUST00605",
+    "customer_name": "Customer 605",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00606",
+    "customer_name": "Customer 606",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00607",
+    "customer_name": "Customer 607",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00608",
+    "customer_name": "Customer 608",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00609",
+    "customer_name": "Customer 609",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00610",
+    "customer_name": "Customer 610",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00611",
+    "customer_name": "Customer 611",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00612",
+    "customer_name": "Customer 612",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00613",
+    "customer_name": "Customer 613",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "customer_id": "CUST00614",
+    "customer_name": "Customer 614",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00615",
+    "customer_name": "Customer 615",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "customer_id": "CUST00616",
+    "customer_name": "Customer 616",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00617",
+    "customer_name": "Customer 617",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00618",
+    "customer_name": "Customer 618",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00619",
+    "customer_name": "Customer 619",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00620",
+    "customer_name": "Customer 620",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00621",
+    "customer_name": "Customer 621",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00622",
+    "customer_name": "Customer 622",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00623",
+    "customer_name": "Customer 623",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00624",
+    "customer_name": "Customer 624",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00625",
+    "customer_name": "Customer 625",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00626",
+    "customer_name": "Customer 626",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00627",
+    "customer_name": "Customer 627",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00628",
+    "customer_name": "Customer 628",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00629",
+    "customer_name": "Customer 629",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00630",
+    "customer_name": "Customer 630",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00631",
+    "customer_name": "Customer 631",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00632",
+    "customer_name": "Customer 632",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00633",
+    "customer_name": "Customer 633",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00634",
+    "customer_name": "Customer 634",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00635",
+    "customer_name": "Customer 635",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00636",
+    "customer_name": "Customer 636",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00637",
+    "customer_name": "Customer 637",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00638",
+    "customer_name": "Customer 638",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00639",
+    "customer_name": "Customer 639",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00640",
+    "customer_name": "Customer 640",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00641",
+    "customer_name": "Customer 641",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "New York"
+  },
+  {
+    "customer_id": "CUST00642",
+    "customer_name": "Customer 642",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00643",
+    "customer_name": "Customer 643",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00644",
+    "customer_name": "Customer 644",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00645",
+    "customer_name": "Customer 645",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00646",
+    "customer_name": "Customer 646",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00647",
+    "customer_name": "Customer 647",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00648",
+    "customer_name": "Customer 648",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00649",
+    "customer_name": "Customer 649",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00650",
+    "customer_name": "Customer 650",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00651",
+    "customer_name": "Customer 651",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00652",
+    "customer_name": "Customer 652",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00653",
+    "customer_name": "Customer 653",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00654",
+    "customer_name": "Customer 654",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00655",
+    "customer_name": "Customer 655",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00656",
+    "customer_name": "Customer 656",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "New York"
+  },
+  {
+    "customer_id": "CUST00657",
+    "customer_name": "Customer 657",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00658",
+    "customer_name": "Customer 658",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "customer_id": "CUST00659",
+    "customer_name": "Customer 659",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00660",
+    "customer_name": "Customer 660",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00661",
+    "customer_name": "Customer 661",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Los Angeles"
+  },
+  {
+    "customer_id": "CUST00662",
+    "customer_name": "Customer 662",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00663",
+    "customer_name": "Customer 663",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00664",
+    "customer_name": "Customer 664",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00665",
+    "customer_name": "Customer 665",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00666",
+    "customer_name": "Customer 666",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00667",
+    "customer_name": "Customer 667",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00668",
+    "customer_name": "Customer 668",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00669",
+    "customer_name": "Customer 669",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00670",
+    "customer_name": "Customer 670",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00671",
+    "customer_name": "Customer 671",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00672",
+    "customer_name": "Customer 672",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00673",
+    "customer_name": "Customer 673",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00674",
+    "customer_name": "Customer 674",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00675",
+    "customer_name": "Customer 675",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00676",
+    "customer_name": "Customer 676",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00677",
+    "customer_name": "Customer 677",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00678",
+    "customer_name": "Customer 678",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00679",
+    "customer_name": "Customer 679",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00680",
+    "customer_name": "Customer 680",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00681",
+    "customer_name": "Customer 681",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00682",
+    "customer_name": "Customer 682",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00683",
+    "customer_name": "Customer 683",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00684",
+    "customer_name": "Customer 684",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Los Angeles"
+  },
+  {
+    "customer_id": "CUST00685",
+    "customer_name": "Customer 685",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00686",
+    "customer_name": "Customer 686",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00687",
+    "customer_name": "Customer 687",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00688",
+    "customer_name": "Customer 688",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Phoenix"
+  },
+  {
+    "customer_id": "CUST00689",
+    "customer_name": "Customer 689",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00690",
+    "customer_name": "Customer 690",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00691",
+    "customer_name": "Customer 691",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00692",
+    "customer_name": "Customer 692",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00693",
+    "customer_name": "Customer 693",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00694",
+    "customer_name": "Customer 694",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00695",
+    "customer_name": "Customer 695",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00696",
+    "customer_name": "Customer 696",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00697",
+    "customer_name": "Customer 697",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00698",
+    "customer_name": "Customer 698",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00699",
+    "customer_name": "Customer 699",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00700",
+    "customer_name": "Customer 700",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00701",
+    "customer_name": "Customer 701",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00702",
+    "customer_name": "Customer 702",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00703",
+    "customer_name": "Customer 703",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00704",
+    "customer_name": "Customer 704",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00705",
+    "customer_name": "Customer 705",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00706",
+    "customer_name": "Customer 706",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00707",
+    "customer_name": "Customer 707",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00708",
+    "customer_name": "Customer 708",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00709",
+    "customer_name": "Customer 709",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00710",
+    "customer_name": "Customer 710",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00711",
+    "customer_name": "Customer 711",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00712",
+    "customer_name": "Customer 712",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00713",
+    "customer_name": "Customer 713",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00714",
+    "customer_name": "Customer 714",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00715",
+    "customer_name": "Customer 715",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "customer_id": "CUST00716",
+    "customer_name": "Customer 716",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00717",
+    "customer_name": "Customer 717",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00718",
+    "customer_name": "Customer 718",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00719",
+    "customer_name": "Customer 719",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00720",
+    "customer_name": "Customer 720",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00721",
+    "customer_name": "Customer 721",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00722",
+    "customer_name": "Customer 722",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Phoenix"
+  },
+  {
+    "customer_id": "CUST00723",
+    "customer_name": "Customer 723",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00724",
+    "customer_name": "Customer 724",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00725",
+    "customer_name": "Customer 725",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00726",
+    "customer_name": "Customer 726",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00727",
+    "customer_name": "Customer 727",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Los Angeles"
+  },
+  {
+    "customer_id": "CUST00728",
+    "customer_name": "Customer 728",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00729",
+    "customer_name": "Customer 729",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00730",
+    "customer_name": "Customer 730",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00731",
+    "customer_name": "Customer 731",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Los Angeles"
+  },
+  {
+    "customer_id": "CUST00732",
+    "customer_name": "Customer 732",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00733",
+    "customer_name": "Customer 733",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00734",
+    "customer_name": "Customer 734",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00735",
+    "customer_name": "Customer 735",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00736",
+    "customer_name": "Customer 736",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00737",
+    "customer_name": "Customer 737",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00738",
+    "customer_name": "Customer 738",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00739",
+    "customer_name": "Customer 739",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00740",
+    "customer_name": "Customer 740",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00741",
+    "customer_name": "Customer 741",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00742",
+    "customer_name": "Customer 742",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00743",
+    "customer_name": "Customer 743",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00744",
+    "customer_name": "Customer 744",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00745",
+    "customer_name": "Customer 745",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00746",
+    "customer_name": "Customer 746",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00747",
+    "customer_name": "Customer 747",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00748",
+    "customer_name": "Customer 748",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Los Angeles"
+  },
+  {
+    "customer_id": "CUST00749",
+    "customer_name": "Customer 749",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00750",
+    "customer_name": "Customer 750",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00751",
+    "customer_name": "Customer 751",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00752",
+    "customer_name": "Customer 752",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00753",
+    "customer_name": "Customer 753",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00754",
+    "customer_name": "Customer 754",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00755",
+    "customer_name": "Customer 755",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00756",
+    "customer_name": "Customer 756",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00757",
+    "customer_name": "Customer 757",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00758",
+    "customer_name": "Customer 758",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Phoenix"
+  },
+  {
+    "customer_id": "CUST00759",
+    "customer_name": "Customer 759",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00760",
+    "customer_name": "Customer 760",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00761",
+    "customer_name": "Customer 761",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00762",
+    "customer_name": "Customer 762",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00763",
+    "customer_name": "Customer 763",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00764",
+    "customer_name": "Customer 764",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00765",
+    "customer_name": "Customer 765",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00766",
+    "customer_name": "Customer 766",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00767",
+    "customer_name": "Customer 767",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00768",
+    "customer_name": "Customer 768",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00769",
+    "customer_name": "Customer 769",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00770",
+    "customer_name": "Customer 770",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00771",
+    "customer_name": "Customer 771",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00772",
+    "customer_name": "Customer 772",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00773",
+    "customer_name": "Customer 773",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00774",
+    "customer_name": "Customer 774",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00775",
+    "customer_name": "Customer 775",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00776",
+    "customer_name": "Customer 776",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00777",
+    "customer_name": "Customer 777",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00778",
+    "customer_name": "Customer 778",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00779",
+    "customer_name": "Customer 779",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00780",
+    "customer_name": "Customer 780",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00781",
+    "customer_name": "Customer 781",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00782",
+    "customer_name": "Customer 782",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00783",
+    "customer_name": "Customer 783",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00784",
+    "customer_name": "Customer 784",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00785",
+    "customer_name": "Customer 785",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00786",
+    "customer_name": "Customer 786",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Phoenix"
+  },
+  {
+    "customer_id": "CUST00787",
+    "customer_name": "Customer 787",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00788",
+    "customer_name": "Customer 788",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00789",
+    "customer_name": "Customer 789",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00790",
+    "customer_name": "Customer 790",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00791",
+    "customer_name": "Customer 791",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00792",
+    "customer_name": "Customer 792",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00793",
+    "customer_name": "Customer 793",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00794",
+    "customer_name": "Customer 794",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "customer_id": "CUST00795",
+    "customer_name": "Customer 795",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "New York"
+  },
+  {
+    "customer_id": "CUST00796",
+    "customer_name": "Customer 796",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Los Angeles"
+  },
+  {
+    "customer_id": "CUST00797",
+    "customer_name": "Customer 797",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00798",
+    "customer_name": "Customer 798",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Phoenix"
+  },
+  {
+    "customer_id": "CUST00799",
+    "customer_name": "Customer 799",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00800",
+    "customer_name": "Customer 800",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00801",
+    "customer_name": "Customer 801",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Phoenix"
+  },
+  {
+    "customer_id": "CUST00802",
+    "customer_name": "Customer 802",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00803",
+    "customer_name": "Customer 803",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00804",
+    "customer_name": "Customer 804",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00805",
+    "customer_name": "Customer 805",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "customer_id": "CUST00806",
+    "customer_name": "Customer 806",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00807",
+    "customer_name": "Customer 807",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00808",
+    "customer_name": "Customer 808",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00809",
+    "customer_name": "Customer 809",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00810",
+    "customer_name": "Customer 810",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00811",
+    "customer_name": "Customer 811",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00812",
+    "customer_name": "Customer 812",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00813",
+    "customer_name": "Customer 813",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "New York"
+  },
+  {
+    "customer_id": "CUST00814",
+    "customer_name": "Customer 814",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00815",
+    "customer_name": "Customer 815",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00816",
+    "customer_name": "Customer 816",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00817",
+    "customer_name": "Customer 817",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00818",
+    "customer_name": "Customer 818",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00819",
+    "customer_name": "Customer 819",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00820",
+    "customer_name": "Customer 820",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "customer_id": "CUST00821",
+    "customer_name": "Customer 821",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00822",
+    "customer_name": "Customer 822",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00823",
+    "customer_name": "Customer 823",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00824",
+    "customer_name": "Customer 824",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00825",
+    "customer_name": "Customer 825",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00826",
+    "customer_name": "Customer 826",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00827",
+    "customer_name": "Customer 827",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00828",
+    "customer_name": "Customer 828",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00829",
+    "customer_name": "Customer 829",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00830",
+    "customer_name": "Customer 830",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00831",
+    "customer_name": "Customer 831",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00832",
+    "customer_name": "Customer 832",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00833",
+    "customer_name": "Customer 833",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00834",
+    "customer_name": "Customer 834",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00835",
+    "customer_name": "Customer 835",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00836",
+    "customer_name": "Customer 836",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00837",
+    "customer_name": "Customer 837",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00838",
+    "customer_name": "Customer 838",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00839",
+    "customer_name": "Customer 839",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00840",
+    "customer_name": "Customer 840",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00841",
+    "customer_name": "Customer 841",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00842",
+    "customer_name": "Customer 842",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00843",
+    "customer_name": "Customer 843",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00844",
+    "customer_name": "Customer 844",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00845",
+    "customer_name": "Customer 845",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00846",
+    "customer_name": "Customer 846",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00847",
+    "customer_name": "Customer 847",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00848",
+    "customer_name": "Customer 848",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00849",
+    "customer_name": "Customer 849",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00850",
+    "customer_name": "Customer 850",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00851",
+    "customer_name": "Customer 851",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00852",
+    "customer_name": "Customer 852",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00853",
+    "customer_name": "Customer 853",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00854",
+    "customer_name": "Customer 854",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "customer_id": "CUST00855",
+    "customer_name": "Customer 855",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00856",
+    "customer_name": "Customer 856",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00857",
+    "customer_name": "Customer 857",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00858",
+    "customer_name": "Customer 858",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00859",
+    "customer_name": "Customer 859",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00860",
+    "customer_name": "Customer 860",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00861",
+    "customer_name": "Customer 861",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00862",
+    "customer_name": "Customer 862",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00863",
+    "customer_name": "Customer 863",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00864",
+    "customer_name": "Customer 864",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00865",
+    "customer_name": "Customer 865",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00866",
+    "customer_name": "Customer 866",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00867",
+    "customer_name": "Customer 867",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00868",
+    "customer_name": "Customer 868",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00869",
+    "customer_name": "Customer 869",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00870",
+    "customer_name": "Customer 870",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00871",
+    "customer_name": "Customer 871",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00872",
+    "customer_name": "Customer 872",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00873",
+    "customer_name": "Customer 873",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00874",
+    "customer_name": "Customer 874",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00875",
+    "customer_name": "Customer 875",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00876",
+    "customer_name": "Customer 876",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Phoenix"
+  },
+  {
+    "customer_id": "CUST00877",
+    "customer_name": "Customer 877",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00878",
+    "customer_name": "Customer 878",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00879",
+    "customer_name": "Customer 879",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00880",
+    "customer_name": "Customer 880",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00881",
+    "customer_name": "Customer 881",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00882",
+    "customer_name": "Customer 882",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00883",
+    "customer_name": "Customer 883",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00884",
+    "customer_name": "Customer 884",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00885",
+    "customer_name": "Customer 885",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00886",
+    "customer_name": "Customer 886",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00887",
+    "customer_name": "Customer 887",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00888",
+    "customer_name": "Customer 888",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00889",
+    "customer_name": "Customer 889",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00890",
+    "customer_name": "Customer 890",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00891",
+    "customer_name": "Customer 891",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00892",
+    "customer_name": "Customer 892",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "New York"
+  },
+  {
+    "customer_id": "CUST00893",
+    "customer_name": "Customer 893",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "New York"
+  },
+  {
+    "customer_id": "CUST00894",
+    "customer_name": "Customer 894",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00895",
+    "customer_name": "Customer 895",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00896",
+    "customer_name": "Customer 896",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00897",
+    "customer_name": "Customer 897",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00898",
+    "customer_name": "Customer 898",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00899",
+    "customer_name": "Customer 899",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00900",
+    "customer_name": "Customer 900",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00901",
+    "customer_name": "Customer 901",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00902",
+    "customer_name": "Customer 902",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00903",
+    "customer_name": "Customer 903",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00904",
+    "customer_name": "Customer 904",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "customer_id": "CUST00905",
+    "customer_name": "Customer 905",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00906",
+    "customer_name": "Customer 906",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00907",
+    "customer_name": "Customer 907",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00908",
+    "customer_name": "Customer 908",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00909",
+    "customer_name": "Customer 909",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00910",
+    "customer_name": "Customer 910",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "customer_id": "CUST00911",
+    "customer_name": "Customer 911",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "customer_id": "CUST00912",
+    "customer_name": "Customer 912",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00913",
+    "customer_name": "Customer 913",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00914",
+    "customer_name": "Customer 914",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00915",
+    "customer_name": "Customer 915",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00916",
+    "customer_name": "Customer 916",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00917",
+    "customer_name": "Customer 917",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00918",
+    "customer_name": "Customer 918",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00919",
+    "customer_name": "Customer 919",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00920",
+    "customer_name": "Customer 920",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00921",
+    "customer_name": "Customer 921",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00922",
+    "customer_name": "Customer 922",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Perth"
+  },
+  {
+    "customer_id": "CUST00923",
+    "customer_name": "Customer 923",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00924",
+    "customer_name": "Customer 924",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00925",
+    "customer_name": "Customer 925",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00926",
+    "customer_name": "Customer 926",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Los Angeles"
+  },
+  {
+    "customer_id": "CUST00927",
+    "customer_name": "Customer 927",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00928",
+    "customer_name": "Customer 928",
+    "segment": "Home Office",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00929",
+    "customer_name": "Customer 929",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00930",
+    "customer_name": "Customer 930",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00931",
+    "customer_name": "Customer 931",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00932",
+    "customer_name": "Customer 932",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00933",
+    "customer_name": "Customer 933",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00934",
+    "customer_name": "Customer 934",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00935",
+    "customer_name": "Customer 935",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "customer_id": "CUST00936",
+    "customer_name": "Customer 936",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00937",
+    "customer_name": "Customer 937",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00938",
+    "customer_name": "Customer 938",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00939",
+    "customer_name": "Customer 939",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00940",
+    "customer_name": "Customer 940",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00941",
+    "customer_name": "Customer 941",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00942",
+    "customer_name": "Customer 942",
+    "segment": "Corporate",
+    "country": "USA",
+    "city": "Los Angeles"
+  },
+  {
+    "customer_id": "CUST00943",
+    "customer_name": "Customer 943",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00944",
+    "customer_name": "Customer 944",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00945",
+    "customer_name": "Customer 945",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00946",
+    "customer_name": "Customer 946",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00947",
+    "customer_name": "Customer 947",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00948",
+    "customer_name": "Customer 948",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00949",
+    "customer_name": "Customer 949",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00950",
+    "customer_name": "Customer 950",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "customer_id": "CUST00951",
+    "customer_name": "Customer 951",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00952",
+    "customer_name": "Customer 952",
+    "segment": "Consumer",
+    "country": "Spain",
+    "city": "Seville"
+  },
+  {
+    "customer_id": "CUST00953",
+    "customer_name": "Customer 953",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00954",
+    "customer_name": "Customer 954",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  {
+    "customer_id": "CUST00955",
+    "customer_name": "Customer 955",
+    "segment": "Corporate",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00956",
+    "customer_name": "Customer 956",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00957",
+    "customer_name": "Customer 957",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Houston"
+  },
+  {
+    "customer_id": "CUST00958",
+    "customer_name": "Customer 958",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Los Angeles"
+  },
+  {
+    "customer_id": "CUST00959",
+    "customer_name": "Customer 959",
+    "segment": "Corporate",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00960",
+    "customer_name": "Customer 960",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "customer_id": "CUST00961",
+    "customer_name": "Customer 961",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00962",
+    "customer_name": "Customer 962",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00963",
+    "customer_name": "Customer 963",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": "CUST00964",
+    "customer_name": "Customer 964",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00965",
+    "customer_name": "Customer 965",
+    "segment": "Home Office",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": "CUST00966",
+    "customer_name": "Customer 966",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00967",
+    "customer_name": "Customer 967",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00968",
+    "customer_name": "Customer 968",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00969",
+    "customer_name": "Customer 969",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00970",
+    "customer_name": "Customer 970",
+    "segment": "Consumer",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00971",
+    "customer_name": "Customer 971",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "customer_id": "CUST00972",
+    "customer_name": "Customer 972",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "customer_id": "CUST00973",
+    "customer_name": "Customer 973",
+    "segment": "Consumer",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00974",
+    "customer_name": "Customer 974",
+    "segment": "Corporate",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00975",
+    "customer_name": "Customer 975",
+    "segment": "Consumer",
+    "country": "France",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": "CUST00976",
+    "customer_name": "Customer 976",
+    "segment": "Home Office",
+    "country": "UK",
+    "city": "Manchester"
+  },
+  {
+    "customer_id": "CUST00977",
+    "customer_name": "Customer 977",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00978",
+    "customer_name": "Customer 978",
+    "segment": "Corporate",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00979",
+    "customer_name": "Customer 979",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00980",
+    "customer_name": "Customer 980",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00981",
+    "customer_name": "Customer 981",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00982",
+    "customer_name": "Customer 982",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Leeds"
+  },
+  {
+    "customer_id": "CUST00983",
+    "customer_name": "Customer 983",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "customer_id": "CUST00984",
+    "customer_name": "Customer 984",
+    "segment": "Consumer",
+    "country": "UK",
+    "city": "Birmingham"
+  },
+  {
+    "customer_id": "CUST00985",
+    "customer_name": "Customer 985",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00986",
+    "customer_name": "Customer 986",
+    "segment": "Home Office",
+    "country": "USA",
+    "city": "Chicago"
+  },
+  {
+    "customer_id": "CUST00987",
+    "customer_name": "Customer 987",
+    "segment": "Home Office",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "customer_id": "CUST00988",
+    "customer_name": "Customer 988",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "customer_id": "CUST00989",
+    "customer_name": "Customer 989",
+    "segment": "Corporate",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "customer_id": "CUST00990",
+    "customer_name": "Customer 990",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Calgary"
+  },
+  {
+    "customer_id": "CUST00991",
+    "customer_name": "Customer 991",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "customer_id": "CUST00992",
+    "customer_name": "Customer 992",
+    "segment": "Corporate",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "customer_id": "CUST00993",
+    "customer_name": "Customer 993",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST00994",
+    "customer_name": "Customer 994",
+    "segment": "Home Office",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "customer_id": "CUST00995",
+    "customer_name": "Customer 995",
+    "segment": "Consumer",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "customer_id": "CUST00996",
+    "customer_name": "Customer 996",
+    "segment": "Consumer",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "customer_id": "CUST00997",
+    "customer_name": "Customer 997",
+    "segment": "Consumer",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "CUST00998",
+    "customer_name": "Customer 998",
+    "segment": "Home Office",
+    "country": "Italy",
+    "city": "Naples"
+  },
+  {
+    "customer_id": "CUST00999",
+    "customer_name": "Customer 999",
+    "segment": "Corporate",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "customer_id": "CUST01000",
+    "customer_name": "Customer 1000",
+    "segment": "Home Office",
+    "country": "Canada",
+    "city": "Vancouver"
+  }
+]
